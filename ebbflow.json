@@ -7,7 +7,7 @@
     "hash": "A26AED4FC721B07E17560589DDD983CA3685FCDA8BEF3336A56DB02AF169F58E",
     "bin": [
         [
-            "ebbflow"
+            "bin/ebbflow"
         ]
     ]
 }
